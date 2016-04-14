@@ -1,1 +1,1 @@
-# GCIT
+# GCIT Training
